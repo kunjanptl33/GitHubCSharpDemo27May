@@ -20,7 +20,7 @@ namespace GitHubCSharpDemo27May
 
             Console.WriteLine("Add New Feature1 Branch");
 
-            Console.WriteLine("Pull Request From Visual Studio");
+           
 
             Console.WriteLine("Again new Murge from feature2 branch");
 
