@@ -23,9 +23,12 @@ namespace GitHubCSharpDemo27May
 
             Console.WriteLine("Feature1 Branch pull request");
 
-            Console.WriteLine("There is some more change in feature1 branch");
+            Console.WriteLine("There is first change in feature1 branch");
 
-           
+            Console.WriteLine("There is Second change in feature1 branch");
+
+
+
 
             Console.WriteLine("Again new Murge from feature2 branch");
 
