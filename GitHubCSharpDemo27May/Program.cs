@@ -28,7 +28,7 @@ namespace GitHubCSharpDemo27May
             Console.WriteLine("There is Second change in feature1 branch");
 
 
-
+            Console.WriteLine("Add new change from feature1 branch");
 
             Console.WriteLine("Again new Murge from feature2 branch");
 
