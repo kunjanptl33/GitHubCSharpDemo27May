@@ -9,6 +9,7 @@ namespace GitHubCSharpDemo27May
     class Program
     {
         static void Main(string[] args)
+
         {
             Console.WriteLine("Hello World !!");
 
@@ -19,6 +20,8 @@ namespace GitHubCSharpDemo27May
             Console.WriteLine("\n Name : "+ s);
 
             Console.WriteLine("Add New Feature1 Branch");
+
+            Console.WriteLine("Add new feature2 branch and murge with master brance");
 
             Console.ReadLine();
 
