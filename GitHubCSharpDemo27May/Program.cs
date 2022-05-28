@@ -20,9 +20,18 @@ namespace GitHubCSharpDemo27May
 
             Console.WriteLine("Add New Feature1 Branch");
 
+
             Console.WriteLine("Feature1 Branch pull request");
 
             Console.WriteLine("There is some more change in feature1 branch");
+
+           
+
+            Console.WriteLine("Again new Murge from feature2 branch");
+
+            Console.WriteLine("Add New line from feature3 branch");
+            Console.WriteLine("Murger From Feature3 Branch");
+
 
             Console.ReadLine();
 
