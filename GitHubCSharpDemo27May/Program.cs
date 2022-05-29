@@ -36,6 +36,8 @@ namespace GitHubCSharpDemo27May
             Console.WriteLine("Murger From Feature3 Branch");
             Console.WriteLine("changes from feature branch");
             Console.WriteLine("Add from main branch");
+            Console.WriteLine("New add one from main branch");
+
 
             Console.ReadLine();
 
