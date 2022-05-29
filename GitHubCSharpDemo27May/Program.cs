@@ -23,14 +23,18 @@ namespace GitHubCSharpDemo27May
 
             Console.WriteLine("Feature1 Branch pull request");
 
+            Console.WriteLine("There is first change in feature1 branch");
+
+            Console.WriteLine("There is Second change in feature1 branch");
 
 
-           
+            Console.WriteLine("Add new change from feature1 branch");
 
             Console.WriteLine("Again new Murge from feature2 branch");
 
             Console.WriteLine("Add New line from feature3 branch");
             Console.WriteLine("Murger From Feature3 Branch");
+            Console.WriteLine("changes from feature branch");
             Console.WriteLine("Add from main branch");
 
             Console.ReadLine();
