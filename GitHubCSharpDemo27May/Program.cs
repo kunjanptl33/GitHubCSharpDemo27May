@@ -13,7 +13,7 @@ namespace GitHubCSharpDemo27May
             Console.WriteLine("Hello World !!");
 
             Console.WriteLine("This is my first Change in push code in GitHub.");
-            Console.WriteLine("This is my first Change in push code in GitHub.");
+            Console.WriteLine("Test 7th april 2023");
 
 
             string s = Console.ReadLine();
