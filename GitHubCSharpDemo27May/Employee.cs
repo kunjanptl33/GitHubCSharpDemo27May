@@ -11,6 +11,7 @@ namespace GitHubCSharpDemo27May
         public void EmployeeDetails()
         {
             Console.WriteLine("This is employee class");
+            Console.WriteLine("Added new feature from Feature3 Branch");
         }
     }
 }
